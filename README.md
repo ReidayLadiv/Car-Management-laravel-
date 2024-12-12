@@ -21,7 +21,7 @@ Enlaces disponibles:
 - hhtp://localhost/profile
 
 
-Ante dificultades con Node modules ejecute uno de los siguientes comandos en su consola dependiendo de su controlador de paquetes:
+Ante dificultades con Node modules ejecute uno de los siguientes comandos en su consola (necesita de Node.js) dependiendo de su controlador de paquetes:
 
 - pnpm install
 - npm install
