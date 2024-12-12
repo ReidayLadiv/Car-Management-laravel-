@@ -1,0 +1,9 @@
+System Requirements:
+
+PHP Version: 8.3.14
+Laravel Version: 11.35.0
+OS: WINNT
+Database Connection: sqlite
+Storage Path Writable: Yes
+Cache Path Writable: Yes
+Log Path Writable: Yes
